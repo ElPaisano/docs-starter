@@ -1,5 +1,5 @@
 ---
-title: "Actions"
+title: "Technologies"
 description: ""
 lead: ""
 draft: false

@@ -1,27 +1,22 @@
 [[main]]
-  name = "Basics"
+  name = "Getting Started"
   url = "/basics/introduction/overview"
   weight = 1
 
 [[main]]
-  name = "Reference"
-  url = "/reference/introduction"
+  name = "Concepts"
+  url = "/concepts/introduction"
   weight = 2
 
 [[main]]
-  name = "How-To"
-  url = "/how-to/introduction/"
+  name = "Guides"
+  url = "/tutorials/introduction/"
   weight = 3
 
 [[main]]
-  name = "Tutorials"
-  url = "/tutorials/introduction/"
+  name = "Reference"
+  url = "/reference/introduction/"
   weight = 4
-
-[[main]]
-  name = "Community"
-  url = "/community/introduction/"
-  weight = 5
 
 # [[main]]
 #  name = "Blog"
